@@ -24,8 +24,6 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 # Python
 
 
-## Guided Projects
-
 
 ***
 
