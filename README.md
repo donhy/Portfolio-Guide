@@ -2,7 +2,7 @@
 
 Hi there! 🙋‍♂️
 
-Welcome to my Portfolio!I provide a walkthrough to all of my data analytics projects and courses.
+Welcome to my Portfolio! I provide a walkthrough to all of my data analytics projects and courses.
 
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/don-n-huynh/)! 
 
