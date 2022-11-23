@@ -34,6 +34,8 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 
 
 ***
+| Project Name | Description |  |
+|---|---|---|
 | 📊 [Tableau Public Dashboards](https://public.tableau.com/app/profile/don.huynh) | |  |  
 
 ***
