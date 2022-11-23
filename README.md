@@ -16,7 +16,9 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 
 # SQL
 
-
+| Project Name | Description | SQL Functions |
+|---|---|---|
+| 🛍 [Yelp Trend Analysis](https://github.com/donhy/Yelp-Trend-Analysis) | Analysis the trend of Yelp user and their influence on ratings|  |  
 
 
 ***
